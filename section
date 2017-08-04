@@ -1,0 +1,208 @@
+[{
+		"SectionId": "1",
+		"PaperId": "1",
+		"Answer": "",
+		"QuestionId": "1",
+		"QuestionContent": "Two long parallel wires separated by a distance r have equal currents I flowing in each. Either wire experiences a magnetic force F N/m. If the distance r is increased to 3r and current in each wire is reduced to I/3, the force between them will now be -",
+		"NegMarks": "1",
+		"MaxMarks": "3",
+		"Options": [
+			"3F N/m",
+			"9F N/m",
+			"(F/9) N/m",
+			"(F/27) N/m"
+		]
+},
+	{
+		"SectionId": "1",
+		"PaperId": "1",
+		"QuestionId": "2",
+		"QuestionContent": "A straight section PQ of a circuit lies along the x-axis from x = – (a/2) to x = + (a/2) and carries a steady current I. The magnetic field due to the section PQ at a point x = +a will be -"
+	},
+	{
+		"SectionId": "1",
+		"PaperId": "1",
+		"QuestionId": "3",
+		"QuestionContent": "The charge of a parallel plate capacitor is varying as q = q0 sin ωt. Then find the magnitude of displacement current through the capacitor. (Plate Area = A, separation of plates = d) -",
+	},
+	{
+		"SectionId": "1",
+		"PaperId": "1",
+		"QuestionId": "4",
+		"QuestionContent": "Two blocks of 7 kg and 5 kg are connected by a heavy rope of mass 4 kg. An upward force of 200N is applied as shown in the diagram. The tension at the top of heavy rope at point P is: (g = 10 m/(s*s))",
+	},
+	{
+		"SectionId": "1",
+		"PaperId": "1",
+		"QuestionId": "5",
+		"QuestionContent": "An artificial satellite of the earth releases a package. If air resistance is neglected the point where the package will hit (with respect to position at the time of release) will be -",
+	},
+	{
+		"SectionId": "1",
+		"PaperId": "1",
+		"QuestionId": "6",
+		"QuestionContent": "A vertical disc of mass 5 kg and radius 50 cm the figure. What minimum horizontal force rests against a step of height 25 cm as shown in applied perpendicular to the axle will make the disc to climb the step? Take g = 10 m/s*s."
+	},
+	{
+		"SectionId": "1",
+		"PaperId": "1",
+		"QuestionId": "7",
+		"QuestionContent": "Transverse elastic waves can propagate -"
+	},
+	{
+		"SectionId": "1",
+		"PaperId": "1",
+		"QuestionId": "8",
+		"QuestionContent": "The side of a cube is measured by vernier callipers (10 divisions of a vernier scale coincide with 9 divisions of main scale, where 1 division of main scale is 1 mm). The main scale reads 10 mm and first division of vernier scale coincides with the main scale. Mass of the cube is 2.736 g. The density of the cube in appropriate significant figures is in g cm–3 -"
+	},
+	{
+		"SectionId": "1",
+		"PaperId": "1",
+		"QuestionId": "9",
+		"QuestionContent": "A planet is observed by an astronomical refracting telescope having an objective of focal length 16 m and an eyepiece of focal length 2 cm -"
+	},
+	{
+		"SectionId": "1",
+		"PaperId": "1",
+		"QuestionId": "10",
+		"QuestionContent": "In a YDSE for wavelength λ = 589 nm, the interference fringes have angular separation of 3.50 × 10–3 radian. For what wavelength would the angular separation be 10.0 % greater ?"
+	},
+	{
+		"SectionId": "2",
+		"PaperId": "1",
+		"Answer": "",
+		"QuestionId": "11",
+		"QuestionContent": "Which of the following compounds on heating at about 140ºC gives acetic acid ?",
+		"NegMarks": "1",
+		"MaxMarks": "3",
+		"Options": [
+			"Succinic acid",
+			"Malic acid",
+			"Malonic acid",
+			"Oxalic acid"
+		]
+	},
+	{
+		"SectionId": "2",
+		"PaperId": "1",
+		"QuestionId": "12",
+		"QuestionContent": "Which of the following set of elements mostly occur as sulphide ores ?"
+	},
+	{
+		"SectionId": "2",
+		"PaperId": "1",
+		"QuestionId": "13",
+		"QuestionContent": "Statement-I : Ionic compounds tend to be nonvolatile.Statement-II : Intermolecular forces in these compounds are weak"
+	},
+	{
+		"SectionId": "2",
+		"PaperId": "1",
+		"QuestionId": "14",
+		"QuestionContent": "The solubility of alkali metal hydroxide follows the correct order -"
+	},
+	{
+		"SectionId": "2",
+		"PaperId": "1",
+		"QuestionId": "15",
+		"QuestionContent": "Identify the correct statement regarding entropy :"
+	},
+	{
+		"SectionId": "2",
+		"PaperId": "1",
+		"QuestionId": "16",
+		"QuestionContent": "A binary solid (AB) has a rock salt structure. If the edge length is 400 pm, and radius of cation is 80 pm, the radius of anion is -"
+	},
+	{
+		"SectionId": "2",
+		"PaperId": "1",
+		"QuestionId": "17",
+		"QuestionContent": "The rate constant of a reaction depends on -"
+	},
+	{
+		"SectionId": "2",
+		"PaperId": "1",
+		"QuestionId": "18",
+		"QuestionContent": "The drug used as an antidepressant is -"
+	},
+	{
+		"SectionId": "2",
+		"PaperId": "1",
+		"QuestionId": "19",
+		"QuestionContent": "Bakelite is prepared by the reaction between -"
+	},
+	{
+		"SectionId": "2",
+		"PaperId": "1",
+		"QuestionId": "20",
+		"QuestionContent": "A gaseous mixture of H2 and CO2 gas contains 66 mass% of CO2. The vapour density of mixture is -"
+	},
+	{
+		"SectionId": "3",
+		"PaperId": "1",
+		"Answer": "",
+		"QuestionId": "21",
+		"QuestionContent": "If the straight line y = mx + c (m > 0) touches the parabola y*y = 8(x + 2), then the minimum value taken by c is",
+		"NegMarks": "1",
+		"MaxMarks": "3",
+		"Options": [
+			"12",
+			"8",
+			"4",
+			"6"
+		]
+	},
+	{
+		"SectionId": "3",
+		"PaperId": "1",
+		"QuestionId": "22",
+		"QuestionContent": "The equation of the plane which contains the line of intersection of the planes x + y + z – 6 = 0 and 2x + 3y + z + 5 = 0 and perpendicular to the xy plane is:"
+	},
+	{
+		"SectionId": "3",
+		"PaperId": "1",
+		"QuestionId": "23",
+		"QuestionContent": "The area enclosed by 2|x| + 3|y| ≤ 6 is:"
+	},
+	{
+		"SectionId": "3",
+		"PaperId": "1",
+		"QuestionId": "24",
+		"QuestionContent": "If n(A) = 3, n(B) = 6 and A ⊆ B. Then the number of elements in A ∪ B is equal to -"
+	},
+	{
+		"SectionId": "3",
+		"PaperId": "1",
+		"QuestionId": "25",
+		"QuestionContent": "In a class tournament, all participants were to play different games with one another. Two players fell ill after having played three games each (they never play with each other). If the total number of games played in the tournament is equal to 84, the total number of participants in the beginning was equal to -"
+	},
+	{
+		"SectionId": "3",
+		"PaperId": "1",
+		"QuestionId": "26",
+		"QuestionContent": "If a party of n persons sit at a round table, then the odds against two specified individuals sitting next to each other are -"
+	},
+	{
+		"SectionId": "3",
+		"PaperId": "1",
+		"QuestionId": "27",
+		"QuestionContent": "Given two events A and B. If odds against A are 2 : 1 and those in favour of A ∪ B are as 3 : 1, then:"
+},
+	{
+		"SectionId": "3",
+		"PaperId": "1",
+		"QuestionId": "28",
+		"QuestionContent": "In a triangle ABC, a: b: c = 4: 5: 6. The ratio of the radius of the circumcircle to that of the incircle is:"
+	},
+	{
+		"SectionId": "3",
+		"PaperId": "1",
+		"QuestionId": "29",
+		"QuestionContent": "India plays two matches each with West Indies and Australia. In any match the probabilities of India getting points 0, 1 and 2 are 0.45, 0.05 and 0.50 respectively. Assuming that the outcomes are independent, the probability of India getting at least 7 points, is:"
+	},
+	{
+		"SectionId": "3",
+		"PaperId": "1",
+		"QuestionId": "30",
+		"QuestionContent": "The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to 2x - y + z + 5 = 0 is:"
+	}
+]
