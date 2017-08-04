@@ -12,7 +12,7 @@
 			"(F/9) N/m",
 			"(F/27) N/m"
 		]
-},
+	},
 	{
 		"SectionId": "1",
 		"PaperId": "1",
@@ -23,19 +23,19 @@
 		"SectionId": "1",
 		"PaperId": "1",
 		"QuestionId": "3",
-		"QuestionContent": "The charge of a parallel plate capacitor is varying as q = q0 sin ωt. Then find the magnitude of displacement current through the capacitor. (Plate Area = A, separation of plates = d) -",
+		"QuestionContent": "The charge of a parallel plate capacitor is varying as q = q0 sin ωt. Then find the magnitude of displacement current through the capacitor. (Plate Area = A, separation of plates = d) -"
 	},
 	{
 		"SectionId": "1",
 		"PaperId": "1",
 		"QuestionId": "4",
-		"QuestionContent": "Two blocks of 7 kg and 5 kg are connected by a heavy rope of mass 4 kg. An upward force of 200N is applied as shown in the diagram. The tension at the top of heavy rope at point P is: (g = 10 m/(s*s))",
+		"QuestionContent": "Two blocks of 7 kg and 5 kg are connected by a heavy rope of mass 4 kg. An upward force of 200N is applied as shown in the diagram. The tension at the top of heavy rope at point P is: (g = 10 m/(s*s))"
 	},
 	{
 		"SectionId": "1",
 		"PaperId": "1",
 		"QuestionId": "5",
-		"QuestionContent": "An artificial satellite of the earth releases a package. If air resistance is neglected the point where the package will hit (with respect to position at the time of release) will be -",
+		"QuestionContent": "An artificial satellite of the earth releases a package. If air resistance is neglected the point where the package will hit (with respect to position at the time of release) will be -"
 	},
 	{
 		"SectionId": "1",
@@ -186,7 +186,7 @@
 		"PaperId": "1",
 		"QuestionId": "27",
 		"QuestionContent": "Given two events A and B. If odds against A are 2 : 1 and those in favour of A ∪ B are as 3 : 1, then:"
-},
+	},
 	{
 		"SectionId": "3",
 		"PaperId": "1",
