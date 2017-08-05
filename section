@@ -6,6 +6,7 @@
 		"QuestionContent": "Two long parallel wires separated by a distance r have equal currents I flowing in each. Either wire experiences a magnetic force F N/m. If the distance r is increased to 3r and current in each wire is reduced to I/3, the force between them will now be -",
 		"NegMarks": "1",
 		"MaxMarks": "3",
+		"QuestionType": "Single",
 		"Options": [
 			"3F N/m",
 			"9F N/m",
@@ -73,6 +74,7 @@
 		"Answer": "",
 		"QuestionId": "11",
 		"QuestionContent": "Which of the following compounds on heating at about 140ºC gives acetic acid ?",
+		"QuestionType": "Multiple",
 		"NegMarks": "1",
 		"MaxMarks": "3",
 		"Options": [
@@ -142,6 +144,7 @@
 		"Answer": "",
 		"QuestionId": "21",
 		"QuestionContent": "If the straight line y = mx + c (m > 0) touches the parabola y*y = 8(x + 2), then the minimum value taken by c is",
+		"QuestionType": "Single",
 		"NegMarks": "1",
 		"MaxMarks": "3",
 		"Options": [
