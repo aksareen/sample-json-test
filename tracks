@@ -263,14 +263,14 @@
 		"QuestionType": "single",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p>The equation of the plane which contains the line of intersection of the planes <span class=\'math-tex\'>\\(x\\ +\\ y\\ +\\ z\\ =\\ 0\\)</span> and <span class=\'math-tex\'>\\(2x\\ +\\ 2y\\ +\\ 3z\\ =\\ 0\\)</span> and perpendicular to the xy plane is:</p>",
+			"Content": "<p>The equation of the plane which contains the line of intersection of the planes <span class='math-tex'>\\(x\\ +\\ y\\ +\\ z\\ =\\ 0\\)</span> and <span class='math-tex'>\\(2x\\ +\\ 2y\\ +\\ 3z\\ =\\ 0\\)</span> and perpendicular to the xy plane is:</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
 		"OptionsContent": [{
 				"_id": "1",
 				"Value": {
-					"Content": "<p><span class=\'math-tex\'>\\(x\\ -\\ 3y\\ +\\ 2z\\ =\\ 0\\)</span></p>",
+					"Content": "<p><span class='math-tex'>\\(x\\ -\\ 3y\\ +\\ 2z\\ =\\ 0\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -279,7 +279,7 @@
 			{
 				"_id": "2",
 				"Value": {
-					"Content": "<p><span class=\'math-tex\'>\\(x\\ +\\ 2y\\ +\\ 5z\\ =\\ 0\\)</span></p>",
+					"Content": "<p><span class='math-tex'>\\(x\\ +\\ 2y\\ +\\ 5z\\ =\\ 0\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -288,7 +288,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "<p><span class=\'math-tex\'>\\(2x\\ -\\ y\\ +\\ 4z\\ =\\ 0\\)</span></p>",
+					"Content": "<p><span class='math-tex'>\\(2x\\ -\\ y\\ +\\ 4z\\ =\\ 0\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -297,7 +297,7 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "<p><span class=\'math-tex\'>\\(x\\ -\\ 9y\\ +\\ 2z\\ =\\ 0\\)</span></p>",
+					"Content": "<p><span class='math-tex'>\\(x\\ -\\ 9y\\ +\\ 2z\\ =\\ 0\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
