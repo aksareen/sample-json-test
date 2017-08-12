@@ -3,7 +3,7 @@
 		"QuestionType": "single",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p>The equation of the plane which contains the line of intersection of the planes <p><span class='math - tex'>\\(x^2+y^2=z^2\\)</span></p> and <span class='math-tex'>\\(2x\\ +\\ 2y\\ +\\ 3z\\ =\\ 0\\)</span> and perpendicular to the xy plane is:</p>",
+			"Content": "<p>The equation of the plane which contains the line of intersection of the planes <p><span class='math - tex1'>\(x^2+y^2=z^2\)</span></p> and perpendicular to the xy plane is:</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
@@ -263,7 +263,7 @@
 		"QuestionType": "single",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p>The equation of the plane which contains the line of intersection of the planes <p><span class='math - tex'>\\(x^2+y^2=z^2\\)</span></p> and <span class='math-tex'>\\(2x\\ +\\ 2y\\ +\\ 3z\\ =\\ 0\\)</span> and perpendicular to the xy plane is:</p>",
+			"Content": "<p>The equation of the plane which contains the line of intersection of the planes <p><span class='math - tex21'>\(x^2+y^2=z^2\)</span></p> and perpendicular to the xy plane is:</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
