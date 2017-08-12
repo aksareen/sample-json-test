@@ -3,7 +3,7 @@
 		"QuestionType": "single",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p>Two long parallel wires separated by a distance r have equal currents I flowing in each. Either wire experiences a magnetic force F N/m. If the distance r is increased to 3r and current in each wire is reduced to I/3, the force between them will now be -</p>",
+			"Content": "<p>The equation of the plane which contains the line of intersection of the planes <p><span class='math - tex'>\\(x^2+y^2=z^2\\)</span></p> and <span class='math-tex'>\\(2x\\ +\\ 2y\\ +\\ 3z\\ =\\ 0\\)</span> and perpendicular to the xy plane is:</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
@@ -263,7 +263,7 @@
 		"QuestionType": "single",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p>The equation of the plane which contains the line of intersection of the planes <span class='math-tex'>\\(x\\ +\\ y\\ +\\ z\\ =\\ 0\\)</span> and <span class='math-tex'>\\(2x\\ +\\ 2y\\ +\\ 3z\\ =\\ 0\\)</span> and perpendicular to the xy plane is:</p>",
+			"Content": "<p>The equation of the plane which contains the line of intersection of the planes <p><span class='math - tex'>\\(x^2+y^2=z^2\\)</span></p> and <span class='math-tex'>\\(2x\\ +\\ 2y\\ +\\ 3z\\ =\\ 0\\)</span> and perpendicular to the xy plane is:</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
