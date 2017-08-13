@@ -263,7 +263,7 @@
 		"QuestionType": "single",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p>The equation of the plane which contains the line of intersection of the planes <span class='math-tex21'>\\(x^2+y^2=z^2\\)</span> and perpendicular to the xy plane is:</p>",
+			"Content": "<p>The equation of the plane which contains the line of intersection of the planes <span class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span> and perpendicular to the xy plane is:</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
