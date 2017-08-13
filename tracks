@@ -270,7 +270,7 @@
 		"OptionsContent": [{
 				"_id": "1",
 				"Value": {
-					"Content": "<span class="math-tex">\(x\ +\ y^2\ =\ \sqrt[3]{x^2\ +\ y}\)</span>",
+					"Content": "<span class='math-tex'>\\(x\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y}\\)</span>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -279,7 +279,7 @@
 			{
 				"_id": "2",
 				"Value": {
-					"Content": "<span class="math-tex">\(x^3\ +\ y^2\ =\ \sqrt[3]{x^2\ +\ y^3}\)</span>",
+					"Content": "<span class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -288,7 +288,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "<span class="math-tex">\(x^3\ +\ y^2\ =\ \sqrt[3]{x^2\ +\ y^3}\)</span>",
+					"Content": "<span class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -297,7 +297,7 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "<span class="math-tex">\(x^3\ +\ y^2\ =\ \sqrt[3]{x^2\ +\ y^3}\)</span>",
+					"Content": "<span class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
