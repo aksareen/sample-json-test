@@ -1,16 +1,16 @@
 [{
-		"QuestionId": 1,
-		"QuestionType": "single",
+		"QuestionId": "1",
+		"QuestionType": "True/False",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p>The equation of the plane which contains the line of intersection of the planes <span class='math-tex1'>\\(x^3+y^3=z^3\\)</span> and perpendicular to the xy plane is:</p>",
+			"Content": "<p id='1'>The equation of the plane which contains the line of intersection of the planes <span id='1' class='math-tex1'>\\(x^3+y^3=z^3\\)</span> and perpendicular to the xy plane is:</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
 		"OptionsContent": [{
 				"_id": "1",
 				"Value": {
-					"Content": "<p>3F N/m</p>",
+					"Content": "<p id='1'>3F N/m</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -19,7 +19,7 @@
 			{
 				"_id": "2",
 				"Value": {
-					"Content": "<p>9F N/m</p>",
+					"Content": "<p id='1'>9F N/m</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -28,7 +28,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "<p>(F/9) N/m</p>",
+					"Content": "<p id='1'>(F/9) N/m</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -37,7 +37,7 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "<p>(F/27) N/m</p>",
+					"Content": "<p id='1'>(F/27) N/m</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -64,11 +64,11 @@
 		"Tags": ["tag1", "tag2"]
 	},
 	{
-		"QuestionId": 2,
-		"QuestionType": "integer",
+		"QuestionId": "2",
+		"QuestionType": "Integer Type",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p>A straight section PQ of a circuit lies along the x-axis from x = – (a/2) to x = + (a/2) and carries a steady current I. The magnetic field due to the section PQ at a point x = +a will be -</p>",
+			"Content": "<p id='2'>A straight section PQ of a circuit lies along the x-axis from x = – (a/2) to x = + (a/2) and carries a steady current I. The magnetic field due to the section PQ at a point x = +a will be -</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
@@ -129,11 +129,11 @@
 		"Tags": ["tag1", "tag2"]
 	},
 	{
-		"QuestionId": 11,
-		"QuestionType": "fill",
+		"QuestionId": "3",
+		"QuestionType": "Integer Type",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p>A gaseous mixture of H2 and CO2 gas contains 66 mass% of CO2. The vapour density of mixture is -</p>",
+			"Content": "<p id='3'>The charge of a parallel plate capacitor is varying as <span id='3' class='math-tex'>\\(q\\ =\\ q_0\\sin\\ wt\\)</span>. Then find the magnitude of displacement current through the capacitor. (Plate Area = A, separation of plates = d) -</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
@@ -166,6 +166,526 @@
 			},
 			{
 				"_id": "4",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["5"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Physics",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "4",
+		"QuestionType": "Fill in the blanks",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='4'>Two blocks of 7 kg and 5 kg are connected by a heavy rope of mass 4 kg. An upward force of 200N is applied as shown in the diagram. The tension at the top of heavy rope at point P is: (g = 10 m/(<span id='4' class='math-tex'>\\(s^2\\)</span>))</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["yes"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Physics",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "5",
+		"QuestionType": "Fill in the blanks",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='5'>An artificial satellite of the earth releases a package. If air resistance is neglected the point where the package will hit (with respect to position at the time of release) will be -</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["no"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Physics",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "6",
+		"QuestionType": "Integer Type",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='6'>A vertical disc of mass 5 kg and radius 50 cm the figure. What minimum horizontal force rests against a step of height 25 cm as shown in applied perpendicular to the axle will make the disc to climb the step? Take g = 10 m/<span id='6' class='math-tex'>\\(s^2\\)</span></p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["1"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Physics",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "7",
+		"QuestionType": "Integer Type",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='7'>Transverse elastic waves can propagate -</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["8"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Physics",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "8",
+		"QuestionType": "Single Type",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='8'>The highest temperature of the gas, attained if the pressure of an ideal gas varies according to the law <span id='8' class='math-tex'>\\(P\\ =P_0-aV^2\\)</span>, where P0 and a are constants, is - </p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "1",
+				"Value": {
+					"Content": "<p id='1'><span id='8' class='math-tex'>\\(T_{\\max}=\\frac{2P_0}{2\\ nR}\\left(\\frac{P_0}{3a}\\right)^{\\frac{1}{2}}\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "2",
+				"Value": {
+					"Content": "<p id='2'><span class='math-tex' id='2'>\\(T_{\\max}=\\frac{2P_0}{3\\ nR}\\left(\\frac{P_0}{3a}\\right)^{\\frac{1}{2}}\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "3",
+				"Value": {
+					"Content": "<p id='3'><span id='3' class='math-tex'>\\(T_{\\max}=\\frac{P_0}{3\\ nR}\\left(\\frac{P_0}{3a}\\right)^{\\frac{1}{2}}\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "4",
+				"Value": {
+					"Content": "<p id='4'>none of these</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "id",
+			"Data": ["2"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Physics",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "9",
+		"QuestionType": "Multiple Type",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='9'>A planet is observed by an astronomical refracting telescope having an objective of focal length 16 m and an eyepiece of focal length 2 cm - </p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "1",
+				"Value": {
+					"Content": "<p id='1'>The distance between the objective and the eyepiece is 16.02 m</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "2",
+				"Value": {
+					"Content": "<p id='2'>The angular magnification of the planet is –800</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "3",
+				"Value": {
+					"Content": "<p id='3'>The image of the planet is inverted</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "4",
+				"Value": {
+					"Content": "<p id='4'>All of the above</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "id",
+			"Data": ["2", "4"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Physics",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "10",
+		"QuestionType": "Integer Type",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='10'>Two blocks of 7 kg and 5 kg are connected by a heavy rope of mass 4 kg. An upward force of 200N is applied as shown in the diagram. The tension at the top of heavy rope at point P is:</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["2"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Physics",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "11",
+		"QuestionType": "Fill in the blanks",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='11'>A gaseous mixture of H2 and CO2 gas contains 66 mass% of CO2. The vapour density of mixture is -</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
 				"Value": {
 					"Content": "",
 					"ContentLatex": "",
@@ -194,18 +714,18 @@
 		"Tags": ["tag1", "tag2"]
 	},
 	{
-		"QuestionId": 12,
-		"QuestionType": "multiple",
+		"QuestionId": "12",
+		"QuestionType": "Multiple Type",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p>Bakelite is prepared by the reaction between -</p>",
+			"Content": "<p id='12'>Bakelite is prepared by the reaction between -</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
 		"OptionsContent": [{
 				"_id": "1",
 				"Value": {
-					"Content": "<p>Phenol and formaldehyde</p>",
+					"Content": "<p id='1'>Phenol and formaldehyde</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -214,7 +734,7 @@
 			{
 				"_id": "2",
 				"Value": {
-					"Content": "<p>Ethylene glycol and dimethylphthalate</p>",
+					"Content": "<p id='2'>Ethylene glycol and dimethylphthalate</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -223,7 +743,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "<p>urea and formaldehyde</p>",
+					"Content": "<p id='3'>urea and formaldehyde</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -232,7 +752,7 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "<p>Tetramethylene glycol and hexamethylenediamine</p>",
+					"Content": "<p id='4'>Tetramethylene glycol and hexamethylenediamine</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -259,18 +779,148 @@
 		"Tags": ["tag1", "tag2"]
 	},
 	{
-		"QuestionId": 21,
-		"QuestionType": "single",
+		"QuestionId": "13",
+		"QuestionType": "Integer Type",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p>The equation of the plane which contains the line of intersection of the planes <span class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span> and perpendicular to the xy plane is:</p>",
+			"Content": "<p id='13'>The solubility of alkali metal hydroxide follows the correct order -</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["6"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Chemistry",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "14",
+		"QuestionType": "Integer Type",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='14'>A binary solid (AB) has a rock salt structure. If the edge length is 400 pm, and radius of cation is 80 pm, the radius of anion is -</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["8"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Chemistry",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "15",
+		"QuestionType": "Single Type",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='15'>The value of rate constant of a reaction is equal to -</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
 		"OptionsContent": [{
 				"_id": "1",
 				"Value": {
-					"Content": "<span class='math-tex'>\\(x\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y}\\)</span>",
+					"Content": "<p id='1'>1</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -279,7 +929,7 @@
 			{
 				"_id": "2",
 				"Value": {
-					"Content": "<span class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span>",
+					"Content": "<p id='2'>2</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -288,7 +938,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "<span class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span>",
+					"Content": "<p id='3'>3</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -297,7 +947,397 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "<span class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span>",
+					"Content": "<p id='4'>4</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "id",
+			"Data": ["1"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Chemistry",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "16",
+		"QuestionType": "Multiple Type",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='16'>A gaseous mixture of H2 and CO2 gas contains 66 mass% of CO2. The vapour density of mixture is -</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "1",
+				"Value": {
+					"Content": "<p id='1'>1.5</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "2",
+				"Value": {
+					"Content": "<p id='2'>2.5</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "3",
+				"Value": {
+					"Content": "<p id='3'>3.5</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "4",
+				"Value": {
+					"Content": "<p id='4'>4.5</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "id",
+			"Data": ["1", "2"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Chemistry",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "17",
+		"QuestionType": "Multiple Type",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='17'>The drug used as an antidepressant is -</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "1",
+				"Value": {
+					"Content": "<p id='1'>First</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "2",
+				"Value": {
+					"Content": "<p id='2'>Second</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "3",
+				"Value": {
+					"Content": "<p id='3'>Third</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "4",
+				"Value": {
+					"Content": "<p id='4'>Fourth</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "id",
+			"Data": ["1", "2"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Chemistry",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "18",
+		"QuestionType": "Integer Type",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='18'>A Pt complex of ammonia and chlorine produces four ions per molecule in the solution is - </p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["2"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Chemistry",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "19",
+		"QuestionType": "Integer Type",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='19'>Heating of ammonium dichromate produces :</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["5"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Chemistry",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "20",
+		"QuestionType": "Integer Type",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='20'>Heating of ammonium dichromate produces :</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["6"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Chemistry",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "21",
+		"QuestionType": "Single Type",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='20'>The equation of the plane which contains the line of intersection of the planes <span id='20' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span> and perpendicular to the xy plane is:</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "1",
+				"Value": {
+					"Content": "<p id='1'><span id='1' class='math-tex'>\\(x\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y}\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "2",
+				"Value": {
+					"Content": "<p id='2'><span id='2' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "3",
+				"Value": {
+					"Content": "<p id='3'><span id='3' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "4",
+				"Value": {
+					"Content": "<p id='4'><span id='4' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -324,11 +1364,466 @@
 		"Tags": ["tag1", "tag2"]
 	},
 	{
-		"QuestionId": 22,
-		"QuestionType": "integer",
+		"QuestionId": "22",
+		"QuestionType": "Integer Type",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p>If n(A) = 3, n(B) = 6 and A ⊆ B. Then the number of elements in A ∪ B is equal to -</p>",
+			"Content": "<p id='22'>If n(A) = 3, n(B) = 6 and A ⊆ B. Then the number of elements in A ∪ B is equal to -</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["9"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Maths",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "23",
+		"QuestionType": "Integer Type",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='22'>The area enclosed by 2|x| + 3|y| ≤ 6 is:</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["4"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Maths",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "24",
+		"QuestionType": "Integer Type",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='24'>In a class tournament, all participants were to play different games with one another. Two players fell ill after having played three games each (they never play with each other). If the total number of games played in the tournament is equal to 84, the total number of participants in the beginning was equal to -</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["5"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Maths",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "25",
+		"QuestionType": "Fill in the blanks",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='25'>The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to <span id='25' class='math-tex'>\\(2x\\ -\\ y\\ +\\ z\\ =\\ 0\\)</span> is:</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["yes"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Maths",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "26",
+		"QuestionType": "Fill in the blanks",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='26'>The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to <span id='26' class='math-tex'>\\(2x\\ -\\ y\\ +\\ z\\ =\\ 0\\)</span> is:</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["yes"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Maths",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "27",
+		"QuestionType": "Fill in the blanks",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='27'>The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to <span class='math-tex' id='27'>\\(2x^2\\ -\\ \\sqrt{y}\\ +\\ z\\ =\\ \\frac{2}{3}\\)</span> is:</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["yes"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Maths",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "28",
+		"QuestionType": "Fill in the blanks",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='28'>The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to <span id='28' class='math-tex'>\\(2x\\ -\\ y\\ +\\ z\\ =\\ 0\\)</span> is:</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["yes"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Maths",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "29",
+		"QuestionType": "Fill in the blanks",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='29'>The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to <span class='math-tex' id='29'>\\(\\left(\\sqrt{2\\sqrt[3]{x^2\\ +\\ y^3}}\\right)\\ -\\ \\sqrt{y\\ +\\ z^3}\\ +\\ z^2\\ =\\ \\frac{2}{3}\\)</span> is:</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
@@ -381,7 +1876,72 @@
 		},
 		"CorrectAnswer": {
 			"AnswerType": "value",
-			"Data": ["9"]
+			"Data": ["yes"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Maths",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "30",
+		"QuestionType": "Fill in the blanks",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='30'>The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to <span class='math-tex' id='30'>\\(\\left(\\sqrt{2\\sqrt[3]{x^2\\ +\\ y^3}}\\right)\\ -\\ \\sqrt{y\\ +\\ z^3}\\ +\\ \\left(\\frac{\\sqrt[3]{x^2\\ +\\ y^2}}{\\sqrt[]{x}+\\ y^2\\ +\\ z}\\right)\\ =\\ \\frac{2}{3}\\)</span> is:</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "",
+				"Value": {
+					"Content": "",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["yes"]
 		},
 		"ChapterName": "any",
 		"ConceptName": "any",
