@@ -1310,7 +1310,7 @@
 		"OptionsContent": [{
 				"_id": "1",
 				"Value": {
-					"Content": "<p id='1'><span id='1' class='math-tex'>\\(x\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y}\\)</span></p>",
+					"Content": "<p id='1'><p style='margin-right: 10px;'>1.</p><span id='1' class='math-tex'>\\(x\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y}\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -1319,7 +1319,7 @@
 			{
 				"_id": "2",
 				"Value": {
-					"Content": "<p id='2'><span id='2' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
+					"Content": "<p id='2'><p style='margin-right: 10px;'>A.</p><span id='2' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -1328,7 +1328,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "<p id='3'><span id='3' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
+					"Content": "<p id='3'><p style='margin-right: 10px;'>2.</p><span id='3' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -1337,7 +1337,7 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "<p id='4'><span id='4' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
+					"Content": "<p id='4'><p style='margin-right: 10px;'>B.</p><span id='4' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
