@@ -1054,7 +1054,7 @@
 	},
 	{
 		"QuestionId": "21",
-		"QuestionType": "Multiple Type",
+		"QuestionType": "MULTIPLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='20'>The equation of the plane which contains the line of intersection of the planes <span id='20' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span> and perpendicular to the xy plane is:</p>",
@@ -1119,7 +1119,7 @@
 	},
 	{
 		"QuestionId": "22",
-		"QuestionType": "Integer Type",
+		"QuestionType": "INTEGER TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='22'>If n(A) = 3, n(B) = 6 and A ⊆ B. Then the number of elements in A ∪ B is equal to -</p>",
@@ -1184,7 +1184,7 @@
 	},
 	{
 		"QuestionId": "23",
-		"QuestionType": "Integer Type",
+		"QuestionType": "INTEGER TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='22'>The area enclosed by 2|x| + 3|y| ≤ 6 is:</p>",
@@ -1249,7 +1249,7 @@
 	},
 	{
 		"QuestionId": "24",
-		"QuestionType": "Integer Type",
+		"QuestionType": "INTEGER TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='24'>In a class tournament, all participants were to play different games with one another. Two players fell ill after having played three games each (they never play with each other). If the total number of games played in the tournament is equal to 84, the total number of participants in the beginning was equal to -</p>",
@@ -1314,7 +1314,7 @@
 	},
 	{
 		"QuestionId": "25",
-		"QuestionType": "Fill in the blanks",
+		"QuestionType": "FILL IN THE BLANKS",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='25'>The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to <span id='25' class='math-tex'>\\(2x\\ -\\ y\\ +\\ z\\ =\\ 0\\)</span> is:</p>",
@@ -1379,7 +1379,7 @@
 	},
 	{
 		"QuestionId": "26",
-		"QuestionType": "Fill in the blanks",
+		"QuestionType": "FILL IN THE BLANKS",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='26'>The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to <span id='26' class='math-tex'>\\(2x\\ -\\ y\\ +\\ z\\ =\\ 0\\)</span> is:</p>",
@@ -1444,7 +1444,7 @@
 	},
 	{
 		"QuestionId": "27",
-		"QuestionType": "Fill in the blanks",
+		"QuestionType": "FILL IN THE BLANKS",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='27'>The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to <span class='math-tex' id='27'>\\(2x^2\\ -\\ \\sqrt{y}\\ +\\ z\\ =\\ \\frac{2}{3}\\)</span> is:</p>",
@@ -1509,7 +1509,7 @@
 	},
 	{
 		"QuestionId": "28",
-		"QuestionType": "Fill in the blanks",
+		"QuestionType": "FILL IN THE BLANKS",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='28'>The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to <span id='28' class='math-tex'>\\(2x\\ -\\ y\\ +\\ z\\ =\\ 0\\)</span> is:</p>",
@@ -1574,7 +1574,7 @@
 	},
 	{
 		"QuestionId": "29",
-		"QuestionType": "Fill in the blanks",
+		"QuestionType": "FILL IN THE BLANKS",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='29'>The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to <span class='math-tex' id='29'>\\(\\left(\\sqrt{2\\sqrt[3]{x^2\\ +\\ y^3}}\\right)\\ -\\ \\sqrt{y\\ +\\ z^3}\\ +\\ z^2\\ =\\ \\frac{2}{3}\\)</span> is:</p>",
@@ -1639,7 +1639,7 @@
 	},
 	{
 		"QuestionId": "30",
-		"QuestionType": "Fill in the blanks",
+		"QuestionType": "FILL IN THE BLANKS",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='30'>The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to <span class='math-tex' id='30'>\\(\\left(\\sqrt{2\\sqrt[3]{x^2\\ +\\ y^3}}\\right)\\ -\\ \\sqrt{y\\ +\\ z^3}\\ +\\ \\left(\\frac{\\sqrt[3]{x^2\\ +\\ y^2}}{\\sqrt[]{x}+\\ y^2\\ +\\ z}\\right)\\ =\\ \\frac{2}{3}\\)</span> is:</p>",
