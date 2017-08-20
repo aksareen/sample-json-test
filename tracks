@@ -1,16 +1,16 @@
 [{
 		"QuestionId": "1",
-		"QuestionType": "Single Type",
+		"QuestionType": "SINGLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p id='1'>The equation of the plane which contains the line of intersection of the planes <span id='1' class='math-tex1'>\\(x^3+y^3=z^3\\)</span> and perpendicular to the xy plane is:</p>",
+			"Content": "<p id='1'>Two long parallel wires separated by a distance r have equal currents I flowing in each. Either wire experiences a magnetic force F N/m. If the distance r is increased to 3r and current in each wire is reduced to I/3, the force between them will now be - </p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
 		"OptionsContent": [{
 				"_id": "1",
 				"Value": {
-					"Content": "<p id='1'>The value is 3F N/m</p>",
+					"Content": "<p id='1'>3F N/m</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -19,7 +19,7 @@
 			{
 				"_id": "2",
 				"Value": {
-					"Content": "<p id='1'>The value is 9F N/m</p>",
+					"Content": "<p id='2'>9F N/m</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -28,7 +28,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "<p id='1'>The value is (F/9) N/m</p>",
+					"Content": "<p id='3'>(F/9) N/m</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -37,25 +37,7 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "<p id='1'>The value is (F/27) N/m</p>",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "5",
-				"Value": {
-					"Content": "<p id='1'>The value is (F/54) N/m</p>",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "6",
-				"Value": {
-					"Content": "<p id='1'>The value is (F/108) N/m</p>",
+					"Content": "<p id='4'>(F/27) N/m</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -83,17 +65,17 @@
 	},
 	{
 		"QuestionId": "2",
-		"QuestionType": "Integer Type",
+		"QuestionType": "SINGLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p id='2'>A straight section PQ of a circuit lies along the x-axis from x = – (a/2) to x = + (a/2) and carries a steady current I. The magnetic field due to the section PQ at a point x = +a will be -</p>",
+			"Content": "<p id='2'>A charge is distributed over two concentric hollow spheres of radii R and r, where R > r, such that the surface densities of charges are equal (σ). What is the potential at their common centre ? </p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
 		"OptionsContent": [{
 				"_id": "1",
 				"Value": {
-					"Content": "",
+					"Content": "<p id='1'><span class="math-tex">\(\frac{σ}{ε_0}\left(R\ +r\right)\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -102,7 +84,7 @@
 			{
 				"_id": "2",
 				"Value": {
-					"Content": "",
+					"Content": "<p id='2'><span class="math-tex">\(\frac{σ}{ε_0}\left(R\ -r\right)\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -111,7 +93,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "",
+					"Content": "<p id='3'><span class="math-tex">\(\frac{σ}{ε_0}R\ \)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -120,7 +102,7 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "",
+					"Content": "<p id='4'><span class="math-tex">\(\frac{σ}{ε_0}r\ \)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -128,7 +110,36 @@
 			}
 		],
 		"SolutionContent": {
-			"Content": "<p>B</p>",
+			"Content": "<p>A</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "id",
+			"Data": ["1"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Physics",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "3",
+		"QuestionType": "INTEGER TYPE",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='3'>A straight section PQ of a circuit lies along the x-axis from x = – (a/2) to x = + (a/2) and carries a steady current I. The magnetic field due to the section PQ at a point x = +a will be -</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [],
+		"SolutionContent": {
+			"Content": "<p></p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
@@ -147,11 +158,11 @@
 		"Tags": ["tag1", "tag2"]
 	},
 	{
-		"QuestionId": "3",
-		"QuestionType": "Integer Type",
+		"QuestionId": "4",
+		"QuestionType": "INTEGER TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p id='3'>The charge of a parallel plate capacitor is varying as <span id='3' class='math-tex'>\\(q\\ =\\ q_0\\sin\\ wt\\)</span>. Then find the magnitude of displacement current through the capacitor. (Plate Area = A, separation of plates = d) -</p>",
+			"Content": "<p id='4'>The electric field potential at a point in the space region depends only on x coordinates as <span class="math-tex">\(V\ =\ -ax^3+b\)</span>. The space charge density ρ(x) is <span class="math-tex">\(naε_0x\)</span>. Find n.</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
@@ -212,181 +223,15 @@
 		"Tags": ["tag1", "tag2"]
 	},
 	{
-		"QuestionId": "4",
-		"QuestionType": "Fill in the blanks",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='4'>Two blocks of 7 kg and 5 kg are connected by a heavy rope of mass 4 kg. An upward force of 200N is applied as shown in the diagram. The tension at the top of heavy rope at point P is: (g = 10 m/(<span id='4' class='math-tex'>\\(s^2\\)</span>))</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["yes"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Physics",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
 		"QuestionId": "5",
-		"QuestionType": "Fill in the blanks",
+		"QuestionType": "INTEGER TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p id='5'>An artificial satellite of the earth releases a package. If air resistance is neglected the point where the package will hit (with respect to position at the time of release) will be -</p>",
+			"Content": "<p id='5'>Assume that you are sitting in a car. You see a person in the rear view mirror of radius of curvature 2m running towards you at t = 0. If person is running with velocity 5m/s, and it is at 9m distance from mirror at this instant. The average velocity of the image of man in first second is found to be 10x cm/s. Find the value of x.</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
-		"OptionsContent": [{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["no"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Physics",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "6",
-		"QuestionType": "Integer Type",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='6'>A vertical disc of mass 5 kg and radius 50 cm the figure. What minimum horizontal force rests against a step of height 25 cm as shown in applied perpendicular to the axle will make the disc to climb the step? Take g = 10 m/<span id='6' class='math-tex'>\\(s^2\\)</span></p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
+		"OptionsContent":[],
 		"SolutionContent": {
 			"Content": "<p>B</p>",
 			"ContentLatex": "",
@@ -407,45 +252,74 @@
 		"Tags": ["tag1", "tag2"]
 	},
 	{
-		"QuestionId": "7",
-		"QuestionType": "Integer Type",
+		"QuestionId": "6",
+		"QuestionType": "INTEGER TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p id='7'>Transverse elastic waves can propagate -</p>",
+			"Content": "<p id='6'>At what height (in km) over the Earth's pole the free-fall acceleration decreases by one percent?</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "value",
+			"Data": ["4"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Physics",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "7",
+		"QuestionType": "MULTIPLE TYPE",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='7'>An inductor having some resistance is connected to an <i>AC</i> source. Which of the following quantities has zero average value over a complete cycle?</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
 		"OptionsContent": [{
-				"_id": "",
+				"_id": "1",
 				"Value": {
-					"Content": "",
+					"Content": "<p id='1'>current</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
 				"Hint": ""
 			},
 			{
-				"_id": "",
+				"_id": "2",
 				"Value": {
-					"Content": "",
+					"Content": "<p id='2'>induced emf</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
 				"Hint": ""
 			},
 			{
-				"_id": "",
+				"_id": "3",
 				"Value": {
-					"Content": "",
+					"Content": "<p id='3'>Joule heat</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
 				"Hint": ""
 			},
 			{
-				"_id": "",
+				"_id": "4",
 				"Value": {
-					"Content": "",
+					"Content": "<p id='4'>magnetic energy stored in the inductor</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -463,8 +337,8 @@
 			"ContentMl": ""
 		},
 		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["8"]
+			"AnswerType": "id",
+			"Data": ["1", "2"]
 		},
 		"ChapterName": "any",
 		"ConceptName": "any",
@@ -473,17 +347,17 @@
 	},
 	{
 		"QuestionId": "8",
-		"QuestionType": "Single Type",
+		"QuestionType": "MULTIPLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p id='8'>The highest temperature of the gas, attained if the pressure of an ideal gas varies according to the law <span id='8' class='math-tex'>\\(P\\ =P_0-aV^2\\)</span>, where P0 and a are constants, is - </p>",
+			"Content": "<p id='8'>A strip of wood of mass M and length <i>l</i> is placed on a smooth horizontal surface. An insect of mass m starts at one end of the strip and walks to the other end in time t, moving with a constant speed.</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
 		"OptionsContent": [{
 				"_id": "1",
 				"Value": {
-					"Content": "<p id='1'><span id='8' class='math-tex'>\\(T_{\\max}=\\frac{2P_0}{2\\ nR}\\left(\\frac{P_0}{3a}\\right)^{\\frac{1}{2}}\\)</span></p>",
+					"Content": "<p id='1'>The speed of the insect as seen from the ground is <span id='1' class="math-tex">\(&lt;\frac{l}{t}\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -492,7 +366,7 @@
 			{
 				"_id": "2",
 				"Value": {
-					"Content": "<p id='2'><span class='math-tex' id='2'>\\(T_{\\max}=\\frac{2P_0}{3\\ nR}\\left(\\frac{P_0}{3a}\\right)^{\\frac{1}{2}}\\)</span></p>",
+					"Content": "<p id='2'>The speed of the strip as seen from the ground is <span class="math-tex">\(\frac{l}{t}\left(\frac{\ \ \ M}{M+m}\right)\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -501,7 +375,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "<p id='3'><span id='3' class='math-tex'>\\(T_{\\max}=\\frac{P_0}{3\\ nR}\\left(\\frac{P_0}{3a}\\right)^{\\frac{1}{2}}\\)</span></p>",
+					"Content": "<p id='3'>The speed of the strip as seen from the ground is <span class="math-tex">\(\frac{l}{t}\left(\frac{\ \ \ m}{M+m}\right)\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -510,7 +384,7 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "<p id='4'>none of these</p>",
+					"Content": "<p id='4'>The total kinetic energy of the system is <span class="math-tex">\(\frac{1}{2}\left(m+M\right)\left(\frac{l}{t}\right)^2\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -529,7 +403,7 @@
 		},
 		"CorrectAnswer": {
 			"AnswerType": "id",
-			"Data": ["2"]
+			"Data": ["1", "4"]
 		},
 		"ChapterName": "any",
 		"ConceptName": "any",
@@ -538,17 +412,17 @@
 	},
 	{
 		"QuestionId": "9",
-		"QuestionType": "Multiple Type",
+		"QuestionType": "MULTIPLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p id='9'>A planet is observed by an astronomical refracting telescope having an objective of focal length 16 m and an eyepiece of focal length 2 cm - </p>",
+			"Content": "<p id='9'>Two wires A and B have equal lengths and are made of the same material, but the diameter of wire A is twice that of wire B. Then, for a given load:</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
 		"OptionsContent": [{
 				"_id": "1",
 				"Value": {
-					"Content": "<p id='1'>The distance between the objective and the eyepiece is 16.02 m</p>",
+					"Content": "<p id='1'>the extension of B will be four times that of A</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -557,7 +431,7 @@
 			{
 				"_id": "2",
 				"Value": {
-					"Content": "<p id='2'>The angular magnification of the planet is –800</p>",
+					"Content": "<p id='2'>the extensions of A and B will be equal</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -566,7 +440,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "<p id='3'>The image of the planet is inverted</p>",
+					"Content": "<p id='3'>the strain in B is four times that of A</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -575,7 +449,7 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "<p id='4'>All of the above</p>",
+					"Content": "<p id='4'>the strain of A and B will be equal</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -594,7 +468,7 @@
 		},
 		"CorrectAnswer": {
 			"AnswerType": "id",
-			"Data": ["2", "4"]
+			"Data": ["2", "3"]
 		},
 		"ChapterName": "any",
 		"ConceptName": "any",
@@ -603,50 +477,14 @@
 	},
 	{
 		"QuestionId": "10",
-		"QuestionType": "Integer Type",
+		"QuestionType": "TRUE/FALSE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p id='10'>Two blocks of 7 kg and 5 kg are connected by a heavy rope of mass 4 kg. An upward force of 200N is applied as shown in the diagram. The tension at the top of heavy rope at point P is:</p>",
+			"Content": "<p id='10'>A parallel plate capacitor of plate area A and plate separation dd is charged to potential difference VV and then the battery is disconnected. A slab of dielectric constant K is then inserted between the plates of the capacitor so as to fill the space between the plates. If Q, EQ, E and WW denote respectively, the magnitude of charge on each plate, the electric field between the plates (after the slab is inserted) and the work done on the system, in question, in the process of inserting the slab:</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
-		"OptionsContent": [{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
+		"OptionsContent": [],
 		"SolutionContent": {
 			"Content": "<p>B</p>",
 			"ContentLatex": "",
@@ -659,7 +497,7 @@
 		},
 		"CorrectAnswer": {
 			"AnswerType": "value",
-			"Data": ["2"]
+			"Data": ["true"]
 		},
 		"ChapterName": "any",
 		"ConceptName": "any",
