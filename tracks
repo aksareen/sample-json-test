@@ -506,82 +506,18 @@
 	},
 	{
 		"QuestionId": "11",
-		"QuestionType": "Fill in the blanks",
+		"QuestionType": "PASSAGE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p id='11'>A gaseous mixture of H2 and CO2 gas contains 66 mass% of CO2. The vapour density of mixture is -</p>",
+			"Content": "<p id='11'>The quantum number n of the state finally populated in <span class="math-tex">\(He^+\)</span> ions is:</p>",
 			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["6.1"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Chemistry",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "12",
-		"QuestionType": "Multiple Type",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='12'>Bakelite is prepared by the reaction between -</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
+			"ContentMl": "",
+			"ComphrehensionContent": "<p>In a mixture of <span class='math-tex'>\\(H-He^+\\)</span> gas, ( <span class='math-tex'>\\(He^+\\)</span> is singly ionized He atom), H atoms and <span class='math-tex'>\\(He^+\\)</span> ions are excited to their respective first excited states. Subsequently, H atoms transfer their total excitation energy to <span class='math-tex'>\\(He^+\\)</span> ions (by collisions). Assume that the Bohr model of an atom is exactly valid.</p>"
 		},
 		"OptionsContent": [{
 				"_id": "1",
 				"Value": {
-					"Content": "<p id='1'>Phenol and formaldehyde</p>",
+					"Content": "<p id='1'>2</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -590,7 +526,7 @@
 			{
 				"_id": "2",
 				"Value": {
-					"Content": "<p id='2'>Ethylene glycol and dimethylphthalate</p>",
+					"Content": "<p id='2'>3</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -599,7 +535,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "<p id='3'>urea and formaldehyde</p>",
+					"Content": "<p id='3'>4</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -608,7 +544,7 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "<p id='4'>Tetramethylene glycol and hexamethylenediamine</p>",
+					"Content": "<p id='4'>5</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -627,7 +563,7 @@
 		},
 		"CorrectAnswer": {
 			"AnswerType": "id",
-			"Data": ["A", "B"]
+			"Data": ["3"]
 		},
 		"ChapterName": "any",
 		"ConceptName": "any",
@@ -635,148 +571,19 @@
 		"Tags": ["tag1", "tag2"]
 	},
 	{
-		"QuestionId": "13",
-		"QuestionType": "Integer Type",
+		"QuestionId": "12",
+		"QuestionType": "PASSAGE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p id='13'>The solubility of alkali metal hydroxide follows the correct order -</p>",
+			"Content": "<p id='12'>The wavelength of light emitted in the visible region by <span class="math-tex">\(He^+\)</span> ions after collisions with H atoms is:</p>",
 			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["6"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Chemistry",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "14",
-		"QuestionType": "Integer Type",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='14'>A binary solid (AB) has a rock salt structure. If the edge length is 400 pm, and radius of cation is 80 pm, the radius of anion is -</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["8"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Chemistry",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "15",
-		"QuestionType": "Single Type",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='15'>The value of rate constant of a reaction is equal to -</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
+			"ContentMl": "",
+			"ComphrehensionContent": "<p>In a mixture of <span class="math-tex">\(H-He^+\)</span> gas, ( <span class="math-tex">\(He^+\)</span> is singly ionized He atom), H atoms and <span class="math-tex">\(He^+\)</span> ions are excited to their respective first excited states. Subsequently, H atoms transfer their total excitation energy to <span class="math-tex">\(He^+\)</span> ions (by collisions). Assume that the Bohr model of an atom is exactly valid.</p>"
 		},
 		"OptionsContent": [{
 				"_id": "1",
 				"Value": {
-					"Content": "<p id='1'>1</p>",
+					"Content": "<p id='1'><span class='math-tex'>\\(6.5\\ x\\ 10^{-7}m\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -785,7 +592,7 @@
 			{
 				"_id": "2",
 				"Value": {
-					"Content": "<p id='2'>2</p>",
+					"Content": "<p id='2'><span class='math-tex'>\\(5.6\\ x\\ 10^{-7}m\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -794,7 +601,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "<p id='3'>3</p>",
+					"Content": "<p id='3'><span class='math-tex'>\\(4.8\\ x\\ 10^{-7}m\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -803,7 +610,7 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "<p id='4'>4</p>",
+					"Content": "<p id='4'><span class='math-tex'>\\(4.0\\ x\\ 10^{-7}m\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -830,18 +637,19 @@
 		"Tags": ["tag1", "tag2"]
 	},
 	{
-		"QuestionId": "16",
-		"QuestionType": "Multiple Type",
+		"QuestionId": "13",
+		"QuestionType": "PASSAGE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p id='16'>A gaseous mixture of H2 and CO2 gas contains 66 mass% of CO2. The vapour density of mixture is -</p>",
+			"Content": "<p id='13'>The ratio of the kinetic energy ofthe n=2 electron for the H atom to that of <span class='math-tex'>\(He^+\)</span> ion is:</p>",
 			"ContentLatex": "",
-			"ContentMl": ""
+			"ContentMl": "",
+			"ComphrehensionContent": "<p>In a mixture of <span class="math-tex">\(H-He^+\)</span> gas, ( <span class="math-tex">\(He^+\)</span> is singly ionized He atom), H atoms and <span class="math-tex">\(He^+\)</span> ions are excited to their respective first excited states. Subsequently, H atoms transfer their total excitation energy to <span class="math-tex">\(He^+\)</span> ions (by collisions). Assume that the Bohr model of an atom is exactly valid.</p>"
 		},
 		"OptionsContent": [{
 				"_id": "1",
 				"Value": {
-					"Content": "<p id='1'>1.5</p>",
+					"Content": "<p id='1'>1</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -850,7 +658,7 @@
 			{
 				"_id": "2",
 				"Value": {
-					"Content": "<p id='2'>2.5</p>",
+					"Content": "<p id='2'>2</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -859,7 +667,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "<p id='3'>3.5</p>",
+					"Content": "<p id='3'><span class="math-tex">\(\frac{1}{2}\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -868,7 +676,7 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "<p id='4'>4.5</p>",
+					"Content": "<p id='4'><span class="math-tex">\(\frac{1}{4}\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -887,7 +695,205 @@
 		},
 		"CorrectAnswer": {
 			"AnswerType": "id",
-			"Data": ["1", "2"]
+			"Data": ["2"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Chemistry",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "14",
+		"QuestionType": "PASSAGE TYPE",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='14'>Identify the metal <i>M</i>.</p>",
+			"ContentLatex": "",
+			"ContentMl": "",
+			"ComphrehensionContent": "<p>Nitrogen reacts with a metal <i>M</i> to produce a compound <i>X</i>. This compound <i>X</i>, when dissolved in water forms pungent gas <i>Y</i> which can be identified easily by the formation of white fumes in the presence of <i>HCl</i>.</p>"
+		},
+		"OptionsContent": [{
+				"_id": "1",
+				"Value": {
+					"Content": "<p id='1'>Calcium</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "2",
+				"Value": {
+					"Content": "<p id='2'>Sodium</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "3",
+				"Value": {
+					"Content": "<p id='3'>Cobalt</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "4",
+				"Value": {
+					"Content": "<p id='4'>Iron</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "id",
+			"Data": ["3"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Chemistry",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "15",
+		"QuestionType": "PASSAGE TYPE",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='15'>Identify the metal <i>X</i>.</p>",
+			"ContentLatex": "",
+			"ContentMl": "",
+			"ComphrehensionContent": "<p>Nitrogen reacts with a metal <i>M</i> to produce a compound <i>X</i>. This compound <i>X</i>, when dissolved in water forms pungent gas <i>Y</i> which can be identified easily by the formation of white fumes in the presence of <i>HCl</i>.</p>"
+		},
+		"OptionsContent": [{
+				"_id": "1",
+				"Value": {
+					"Content": "<p id='1'>Iron Nitride</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "2",
+				"Value": {
+					"Content": "<p id='2'>Calcium Nitride</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "3",
+				"Value": {
+					"Content": "<p id='3'>Nitrolim</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "4",
+				"Value": {
+					"Content": "<p id='4'>Sodium Nitride</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "id",
+			"Data": ["3"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Chemistry",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "16",
+		"QuestionType": "PASSAGE TYPE",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='16'>Identify <i>Y</i>.</p>",
+			"ContentLatex": "",
+			"ContentMl": "",
+			"ComphrehensionContent": "<p>Nitrogen reacts with a metal <i>M</i> to produce a compound <i>X</i>. This compound <i>X</i>, when dissolved in water forms pungent gas <i>Y</i> which can be identified easily by the formation of white fumes in the presence of <i>HCl</i>.</p>"
+		},
+		"OptionsContent": [{
+				"_id": "1",
+				"Value": {
+					"Content": "<p id='1'>Nitrogen Dioxide</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "2",
+				"Value": {
+					"Content": "<p id='2'>Ammonia</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "3",
+				"Value": {
+					"Content": "<p id='3'>Nitrous Oxide</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "4",
+				"Value": {
+					"Content": "<p id='4'>Nitric Oxide</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "id",
+			"Data": ["4"]
 		},
 		"ChapterName": "any",
 		"ConceptName": "any",
@@ -896,7 +902,7 @@
 	},
 	{
 		"QuestionId": "17",
-		"QuestionType": "Multiple Type",
+		"QuestionType": "MULTIPLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='17'>The drug used as an antidepressant is -</p>",
@@ -961,50 +967,14 @@
 	},
 	{
 		"QuestionId": "18",
-		"QuestionType": "Integer Type",
+		"QuestionType": "INTEGER TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='18'>A Pt complex of ammonia and chlorine produces four ions per molecule in the solution is - </p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
-		"OptionsContent": [{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
+		"OptionsContent": [],
 		"SolutionContent": {
 			"Content": "<p>B</p>",
 			"ContentLatex": "",
@@ -1026,50 +996,14 @@
 	},
 	{
 		"QuestionId": "19",
-		"QuestionType": "Integer Type",
+		"QuestionType": "INTEGER TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='19'>Heating of ammonium dichromate produces :</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
-		"OptionsContent": [{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
+		"OptionsContent": [],
 		"SolutionContent": {
 			"Content": "<p>B</p>",
 			"ContentLatex": "",
@@ -1091,50 +1025,14 @@
 	},
 	{
 		"QuestionId": "20",
-		"QuestionType": "Integer Type",
+		"QuestionType": "INTEGER TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='20'>Heating of ammonium dichromate produces :</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
-		"OptionsContent": [{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
+		"OptionsContent": [],
 		"SolutionContent": {
 			"Content": "<p>B</p>",
 			"ContentLatex": "",
