@@ -509,7 +509,7 @@
 		"QuestionType": "PASSAGE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p id='11'>The quantum number n of the state finally populated in <span class="math-tex">\(He^+\)</span> ions is:</p>",
+			"Content": "<p id='11'>The quantum number n of the state finally populated in <span class='math-tex'>\\(He^+\\)</span> ions is:</p>",
 			"ContentLatex": "",
 			"ContentMl": "",
 			"ComphrehensionContent": "<p>In a mixture of <span class='math-tex'>\\(H-He^+\\)</span> gas, ( <span class='math-tex'>\\(He^+\\)</span> is singly ionized He atom), H atoms and <span class='math-tex'>\\(He^+\\)</span> ions are excited to their respective first excited states. Subsequently, H atoms transfer their total excitation energy to <span class='math-tex'>\\(He^+\\)</span> ions (by collisions). Assume that the Bohr model of an atom is exactly valid.</p>"
@@ -575,10 +575,10 @@
 		"QuestionType": "PASSAGE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p id='12'>The wavelength of light emitted in the visible region by <span class="math-tex">\(He^+\)</span> ions after collisions with H atoms is:</p>",
+			"Content": "<p id='12'>The wavelength of light emitted in the visible region by <span class='math-tex'>\\(He^+\\)</span> ions after collisions with H atoms is:</p>",
 			"ContentLatex": "",
 			"ContentMl": "",
-			"ComphrehensionContent": "<p>In a mixture of <span class="math-tex">\(H-He^+\)</span> gas, ( <span class="math-tex">\(He^+\)</span> is singly ionized He atom), H atoms and <span class="math-tex">\(He^+\)</span> ions are excited to their respective first excited states. Subsequently, H atoms transfer their total excitation energy to <span class="math-tex">\(He^+\)</span> ions (by collisions). Assume that the Bohr model of an atom is exactly valid.</p>"
+			"ComphrehensionContent": "<p>In a mixture of <span class='math-tex'>\\(H-He^+\\)</span> gas, ( <span class='math-tex'>\\(He^+\\)</span> is singly ionized He atom), H atoms and <span class='math-tex'>\\(He^+\\)</span> ions are excited to their respective first excited states. Subsequently, H atoms transfer their total excitation energy to <span class='math-tex'>\\(He^+\\)</span> ions (by collisions). Assume that the Bohr model of an atom is exactly valid.</p>"
 		},
 		"OptionsContent": [{
 				"_id": "1",
@@ -641,10 +641,10 @@
 		"QuestionType": "PASSAGE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p id='13'>The ratio of the kinetic energy ofthe n=2 electron for the H atom to that of <span class='math-tex'>\(He^+\)</span> ion is:</p>",
+			"Content": "<p id='13'>The ratio of the kinetic energy ofthe n=2 electron for the H atom to that of <span class='math-tex'>\\(He^+\\)</span> ion is:</p>",
 			"ContentLatex": "",
 			"ContentMl": "",
-			"ComphrehensionContent": "<p>In a mixture of <span class="math-tex">\(H-He^+\)</span> gas, ( <span class="math-tex">\(He^+\)</span> is singly ionized He atom), H atoms and <span class="math-tex">\(He^+\)</span> ions are excited to their respective first excited states. Subsequently, H atoms transfer their total excitation energy to <span class="math-tex">\(He^+\)</span> ions (by collisions). Assume that the Bohr model of an atom is exactly valid.</p>"
+			"ComphrehensionContent": "<p>In a mixture of <span class='math-tex'>\\(H-He^+\\)</span> gas, ( <span class='math-tex'>\\(He^+\\)</span> is singly ionized He atom), H atoms and <span class='math-tex'>\\(He^+\\)</span> ions are excited to their respective first excited states. Subsequently, H atoms transfer their total excitation energy to <span class='math-tex'>\\(He^+\\)</span> ions (by collisions). Assume that the Bohr model of an atom is exactly valid.</p>"
 		},
 		"OptionsContent": [{
 				"_id": "1",
@@ -667,7 +667,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "<p id='3'><span class="math-tex">\(\frac{1}{2}\)</span></p>",
+					"Content": "<p id='3'><span class='math-tex'>\\(\\frac{1}{2}\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -676,7 +676,7 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "<p id='4'><span class="math-tex">\(\frac{1}{4}\)</span></p>",
+					"Content": "<p id='4'><span class='math-tex'>\\(\\frac{1}{4}\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
