@@ -75,7 +75,7 @@
 		"OptionsContent": [{
 				"_id": "1",
 				"Value": {
-					"Content": "<p id='1'><span class="math-tex">\(\frac{σ}{ε_0}\left(R\ +r\right)\)</span></p>",
+					"Content": "<p id='1'><span class='math-tex'>\\(\\frac{σ}{ε_0}\\left(R\\ +r\\right)\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -84,7 +84,7 @@
 			{
 				"_id": "2",
 				"Value": {
-					"Content": "<p id='2'><span class="math-tex">\(\frac{σ}{ε_0}\left(R\ -r\right)\)</span></p>",
+					"Content": "<p id='2'><span class='math-tex'>\\(\\frac{σ}{ε_0}\\left(R\\ -r\\right)\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -93,7 +93,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "<p id='3'><span class="math-tex">\(\frac{σ}{ε_0}R\ \)</span></p>",
+					"Content": "<p id='3'><span class='math-tex'>\\(\\frac{σ}{ε_0}R\\ \\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -102,7 +102,7 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "<p id='4'><span class="math-tex">\(\frac{σ}{ε_0}r\ \)</span></p>",
+					"Content": "<p id='4'><span class='math-tex'>\\(\\frac{σ}{ε_0}r\\ \\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -162,7 +162,7 @@
 		"QuestionType": "INTEGER TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p id='4'>The electric field potential at a point in the space region depends only on x coordinates as <span class="math-tex">\(V\ =\ -ax^3+b\)</span>. The space charge density ρ(x) is <span class="math-tex">\(naε_0x\)</span>. Find n.</p>",
+			"Content": "<p id='4'>The electric field potential at a point in the space region depends only on x coordinates as <span class='math-tex'>\\(V\\ =\\ -ax^3+b\\)</span>. The space charge density ρ(x) is <span class='math-tex'>\\(naε_0x\\)</span>. Find n.</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
@@ -231,7 +231,7 @@
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
-		"OptionsContent":[],
+		"OptionsContent": [],
 		"SolutionContent": {
 			"Content": "<p>B</p>",
 			"ContentLatex": "",
@@ -357,7 +357,7 @@
 		"OptionsContent": [{
 				"_id": "1",
 				"Value": {
-					"Content": "<p id='1'>The speed of the insect as seen from the ground is <span id='1' class="math-tex">\(&lt;\frac{l}{t}\)</span></p>",
+					"Content": "<p id='1'>The speed of the insect as seen from the ground is <span id='1' class='math-tex'>\\(&lt;\\frac{l}{t}\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -366,7 +366,7 @@
 			{
 				"_id": "2",
 				"Value": {
-					"Content": "<p id='2'>The speed of the strip as seen from the ground is <span class="math-tex">\(\frac{l}{t}\left(\frac{\ \ \ M}{M+m}\right)\)</span></p>",
+					"Content": "<p id='2'>The speed of the strip as seen from the ground is <span class='math-tex'>\\(\\frac{l}{t}\\left(\\frac{\\ \\ \\ M}{M+m}\\right)\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -375,7 +375,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "<p id='3'>The speed of the strip as seen from the ground is <span class="math-tex">\(\frac{l}{t}\left(\frac{\ \ \ m}{M+m}\right)\)</span></p>",
+					"Content": "<p id='3'>The speed of the strip as seen from the ground is <span class='math-tex'>\\(\\frac{l}{t}\\left(\\frac{\\ \\ \\ m}{M+m}\\right)\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -384,7 +384,7 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "<p id='4'>The total kinetic energy of the system is <span class="math-tex">\(\frac{1}{2}\left(m+M\right)\left(\frac{l}{t}\right)^2\)</span></p>",
+					"Content": "<p id='4'>The total kinetic energy of the system is <span class='math-tex'>\\(\\frac{1}{2}\\left(m+M\\right)\\left(\\frac{l}{t}\\right)^2\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
