@@ -10,7 +10,7 @@
 		"OptionsContent": [{
 				"_id": "1",
 				"Value": {
-					"Content": "<p id='1'>3F N/m</p>",
+					"Content": "<p id='1'>The value is 3F N/m</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -19,7 +19,7 @@
 			{
 				"_id": "2",
 				"Value": {
-					"Content": "<p id='1'>9F N/m</p>",
+					"Content": "<p id='1'>The value is 9F N/m</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -28,7 +28,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "<p id='1'>(F/9) N/m</p>",
+					"Content": "<p id='1'>The value is (F/9) N/m</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -37,7 +37,7 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "<p id='1'>(F/27) N/m</p>",
+					"Content": "<p id='1'>The value is (F/27) N/m</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -46,7 +46,7 @@
 			{
 				"_id": "5",
 				"Value": {
-					"Content": "<p id='1'>(F/54) N/m</p>",
+					"Content": "<p id='1'>The value is (F/54) N/m</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -55,7 +55,7 @@
 			{
 				"_id": "6",
 				"Value": {
-					"Content": "<p id='1'>(F/108) N/m</p>",
+					"Content": "<p id='1'>The value is (F/108) N/m</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
