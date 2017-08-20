@@ -1,6 +1,6 @@
 [{
 		"QuestionId": "1",
-		"QuestionType": "True/False",
+		"QuestionType": "Single Type",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='1'>The equation of the plane which contains the line of intersection of the planes <span id='1' class='math-tex1'>\\(x^3+y^3=z^3\\)</span> and perpendicular to the xy plane is:</p>",
