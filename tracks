@@ -1,4 +1,312 @@
-[{
+[
+	{
+		"_id": "1",
+		"QuestionType": "",
+		"QuestionContent": {
+			"Content": "<p id='20'>The equation of the plane which contains the line of intersection of the planes <span id='20' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span> and perpendicular to the xy plane is:</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "1",
+				"Value": {
+					"Content": "<p id='1'><span id='1' class='math-tex'>\\(x\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y}\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "2",
+				"Value": {
+					"Content": "<p id='2'><span id='2' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "3",
+				"Value": {
+					"Content": "<p id='3'><span id='3' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "4",
+				"Value": {
+					"Content": "<p id='4'><span id='4' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		]
+	},
+	{
+		"_id": "2",
+		"QuestionType": "MULTIPLE TYPE",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='20'>The equation of the plane which contains the line of intersection of the planes <span id='20' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span> and perpendicular to the xy plane is:</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "1",
+				"Value": {
+					"Content": "<p id='1'><span id='1' class='math-tex'>\\(x\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y}\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "2",
+				"Value": {
+					"Content": "<p id='2'><span id='2' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "3",
+				"Value": {
+					"Content": "<p id='3'><span id='3' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "4",
+				"Value": {
+					"Content": "<p id='4'><span id='4' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "id",
+			"Data": ["A"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Maths",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"_id": "3",
+		"QuestionType": "SINGLE TYPE",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='2'>A charge is distributed over two concentric hollow spheres of radii R and r, where R > r, such that the surface densities of charges are equal (σ). What is the potential at their common centre ? </p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "1",
+				"Value": {
+					"Content": "<p id='1'><span class='math-tex'>\\(\\frac{σ}{ε_0}\\left(R\\ +r\\right)\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "2",
+				"Value": {
+					"Content": "<p id='2'><span class='math-tex'>\\(\\frac{σ}{ε_0}\\left(R\\ -r\\right)\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "3",
+				"Value": {
+					"Content": "<p id='3'><span class='math-tex'>\\(\\frac{σ}{ε_0}R\\ \\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "4",
+				"Value": {
+					"Content": "<p id='4'><span class='math-tex'>\\(\\frac{σ}{ε_0}r\\ \\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>A</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "id",
+			"Data": ["1"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Physics",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"QuestionId": "4",
+		"QuestionType": "MULTIPLE TYPE",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='7'>An inductor having some resistance is connected to an <i>AC</i> source. Which of the following quantities has zero average value over a complete cycle?</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "1",
+				"Value": {
+					"Content": "<p id='1'>current</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "2",
+				"Value": {
+					"Content": "<p id='2'>induced emf</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "3",
+				"Value": {
+					"Content": "<p id='3'>Joule heat</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "4",
+				"Value": {
+					"Content": "<p id='4'>magnetic energy stored in the inductor</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "id",
+			"Data": ["1", "2"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Physics",
+		"Tags": ["tag1", "tag2"]
+	},
+	{
+		"_id": "5",
+		"QuestionType": "MULTIPLE TYPE",
+		"MultiLanguage": "false",
+		"QuestionContent": {
+			"Content": "<p id='8'>A strip of wood of mass M and length <i>l</i> is placed on a smooth horizontal surface. An insect of mass m starts at one end of the strip and walks to the other end in time t, moving with a constant speed.</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"OptionsContent": [{
+				"_id": "1",
+				"Value": {
+					"Content": "<p id='1'>The speed of the insect as seen from the ground is <span id='1' class='math-tex'>\\(&lt;\\frac{l}{t}\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "2",
+				"Value": {
+					"Content": "<p id='2'>The speed of the strip as seen from the ground is <span class='math-tex'>\\(\\frac{l}{t}\\left(\\frac{\\ \\ \\ M}{M+m}\\right)\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "3",
+				"Value": {
+					"Content": "<p id='3'>The speed of the strip as seen from the ground is <span class='math-tex'>\\(\\frac{l}{t}\\left(\\frac{\\ \\ \\ m}{M+m}\\right)\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "4",
+				"Value": {
+					"Content": "<p id='4'>The total kinetic energy of the system is <span class='math-tex'>\\(\\frac{1}{2}\\left(m+M\\right)\\left(\\frac{l}{t}\\right)^2\\)</span></p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}
+		],
+		"SolutionContent": {
+			"Content": "<p>B</p>",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"QuestionHints": {
+			"Content": "",
+			"ContentLatex": "",
+			"ContentMl": ""
+		},
+		"CorrectAnswer": {
+			"AnswerType": "id",
+			"Data": ["1", "4"]
+		},
+		"ChapterName": "any",
+		"ConceptName": "any",
+		"Section": "Physics",
+		"Tags": ["tag1", "tag2"]
+	},
+
+{
 		"QuestionId": "1",
 		"QuestionType": "SINGLE TYPE",
 		"MultiLanguage": "false",
