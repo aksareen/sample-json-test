@@ -108,7 +108,7 @@
 		},
 		"ChapterName": "any",
 		"ConceptName": "any",
-		"Section": "Maths",
+		"Section": "Physics",
 		"Tags": ["tag1", "tag2"]
 	},
 	{
@@ -308,7 +308,7 @@
 	},
 
 {
-		"QuestionId": "1",
+		"QuestionId": "6",
 		"QuestionType": "SINGLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
@@ -373,7 +373,7 @@
 		"Tags": ["tag1", "tag2"]
 	},
 	{
-		"QuestionId": "2",
+		"QuestionId": "7",
 		"QuestionType": "SINGLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
@@ -438,15 +438,51 @@
 		"Tags": ["tag1", "tag2"]
 	},
 	{
-		"QuestionId": "3",
-		"QuestionType": "INTEGER TYPE",
+		"QuestionId": "8",
+		"QuestionType": "SINGLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='3'>A straight section PQ of a circuit lies along the x-axis from x = – (a/2) to x = + (a/2) and carries a steady current I. The magnetic field due to the section PQ at a point x = +a will be -</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
-		"OptionsContent": [],
+		"OptionsContent": [
+			{
+				"_id": "1",
+				"Value": {
+					"Content": "<p>2</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "2",
+				"Value": {
+					"Content": "<p>3</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "3",
+				"Value": {
+					"Content": "<p>4</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			},
+			{
+				"_id": "4",
+				"Value": {
+					"Content": "<p>7</p>",
+					"ContentLatex": "",
+					"ContentMl": ""
+				},
+				"Hint": ""
+			}],
 		"SolutionContent": {
 			"Content": "<p></p>",
 			"ContentLatex": "",
@@ -467,8 +503,8 @@
 		"Tags": ["tag1", "tag2"]
 	},
 	{
-		"QuestionId": "4",
-		"QuestionType": "INTEGER TYPE",
+		"QuestionId": "9",
+		"QuestionType": "SINGLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='4'>The electric field potential at a point in the space region depends only on x coordinates as <span class='math-tex'>\\(V\\ =\\ -ax^3+b\\)</span>. The space charge density ρ(x) is <span class='math-tex'>\\(naε_0x\\)</span>. Find n.</p>",
@@ -478,7 +514,7 @@
 		"OptionsContent": [{
 				"_id": "1",
 				"Value": {
-					"Content": "",
+					"Content": "<p>2</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -487,7 +523,7 @@
 			{
 				"_id": "2",
 				"Value": {
-					"Content": "",
+					"Content": "<p>3</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -496,7 +532,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "",
+					"Content": "<p>4</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -505,7 +541,7 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "",
+					"Content": "<p>7</p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -525,64 +561,6 @@
 		"CorrectAnswer": {
 			"AnswerType": "value",
 			"Data": ["5"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Physics",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "5",
-		"QuestionType": "INTEGER TYPE",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='5'>Assume that you are sitting in a car. You see a person in the rear view mirror of radius of curvature 2m running towards you at t = 0. If person is running with velocity 5m/s, and it is at 9m distance from mirror at this instant. The average velocity of the image of man in first second is found to be 10x cm/s. Find the value of x.</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["1"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Physics",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "6",
-		"QuestionType": "INTEGER TYPE",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='6'>At what height (in km) over the Earth's pole the free-fall acceleration decreases by one percent?</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["4"]
 		},
 		"ChapterName": "any",
 		"ConceptName": "any",
@@ -651,166 +629,7 @@
 		},
 		"ChapterName": "any",
 		"ConceptName": "any",
-		"Section": "Physics",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "8",
-		"QuestionType": "MULTIPLE TYPE",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='8'>A strip of wood of mass M and length <i>l</i> is placed on a smooth horizontal surface. An insect of mass m starts at one end of the strip and walks to the other end in time t, moving with a constant speed.</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [{
-				"_id": "1",
-				"Value": {
-					"Content": "<p id='1'>The speed of the insect as seen from the ground is <span id='1' class='math-tex'>\\(&lt;\\frac{l}{t}\\)</span></p>",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "2",
-				"Value": {
-					"Content": "<p id='2'>The speed of the strip as seen from the ground is <span class='math-tex'>\\(\\frac{l}{t}\\left(\\frac{\\ \\ \\ M}{M+m}\\right)\\)</span></p>",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "3",
-				"Value": {
-					"Content": "<p id='3'>The speed of the strip as seen from the ground is <span class='math-tex'>\\(\\frac{l}{t}\\left(\\frac{\\ \\ \\ m}{M+m}\\right)\\)</span></p>",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "4",
-				"Value": {
-					"Content": "<p id='4'>The total kinetic energy of the system is <span class='math-tex'>\\(\\frac{1}{2}\\left(m+M\\right)\\left(\\frac{l}{t}\\right)^2\\)</span></p>",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "id",
-			"Data": ["1", "4"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Physics",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "9",
-		"QuestionType": "MULTIPLE TYPE",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='9'>Two wires A and B have equal lengths and are made of the same material, but the diameter of wire A is twice that of wire B. Then, for a given load:</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [{
-				"_id": "1",
-				"Value": {
-					"Content": "<p id='1'>the extension of B will be four times that of A</p>",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "2",
-				"Value": {
-					"Content": "<p id='2'>the extensions of A and B will be equal</p>",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "3",
-				"Value": {
-					"Content": "<p id='3'>the strain in B is four times that of A</p>",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "4",
-				"Value": {
-					"Content": "<p id='4'>the strain of A and B will be equal</p>",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "id",
-			"Data": ["2", "3"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Physics",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "10",
-		"QuestionType": "TRUE/FALSE",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='10'>A parallel plate capacitor of plate area A and plate separation dd is charged to potential difference VV and then the battery is disconnected. A slab of dielectric constant K is then inserted between the plates of the capacitor so as to fill the space between the plates. If Q, EQ, E and WW denote respectively, the magnitude of charge on each plate, the electric field between the plates (after the slab is inserted) and the work done on the system, in question, in the process of inserting the slab:</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["true"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Physics",
+		"Section": "Chemistry",
 		"Tags": ["tag1", "tag2"]
 	},
 	{
