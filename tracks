@@ -634,7 +634,7 @@
 	},
 	{
 		"QuestionId": "11",
-		"QuestionType": "PASSAGE TYPE",
+		"QuestionType": "SINGLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='11'>The quantum number n of the state finally populated in <span class='math-tex'>\\(He^+\\)</span> ions is:</p>",
@@ -700,7 +700,7 @@
 	},
 	{
 		"QuestionId": "12",
-		"QuestionType": "PASSAGE TYPE",
+		"QuestionType": "SINGLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='12'>The wavelength of light emitted in the visible region by <span class='math-tex'>\\(He^+\\)</span> ions after collisions with H atoms is:</p>",
@@ -766,7 +766,7 @@
 	},
 	{
 		"QuestionId": "13",
-		"QuestionType": "PASSAGE TYPE",
+		"QuestionType": "SINGLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='13'>The ratio of the kinetic energy ofthe n=2 electron for the H atom to that of <span class='math-tex'>\\(He^+\\)</span> ion is:</p>",
@@ -832,7 +832,7 @@
 	},
 	{
 		"QuestionId": "14",
-		"QuestionType": "PASSAGE TYPE",
+		"QuestionType": "SINGLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='14'>Identify the metal <i>M</i>.</p>",
@@ -898,7 +898,7 @@
 	},
 	{
 		"QuestionId": "15",
-		"QuestionType": "PASSAGE TYPE",
+		"QuestionType": "SINGLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='15'>Identify the metal <i>X</i>.</p>",
@@ -964,7 +964,7 @@
 	},
 	{
 		"QuestionId": "16",
-		"QuestionType": "PASSAGE TYPE",
+		"QuestionType": "SINGLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
 			"Content": "<p id='16'>Identify <i>Y</i>.</p>",
@@ -1095,93 +1095,6 @@
 	},
 	{
 		"QuestionId": "18",
-		"QuestionType": "INTEGER TYPE",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='18'>A Pt complex of ammonia and chlorine produces four ions per molecule in the solution is - </p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["2"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Chemistry",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "19",
-		"QuestionType": "INTEGER TYPE",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='19'>Heating of ammonium dichromate produces :</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["5"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Chemistry",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "20",
-		"QuestionType": "INTEGER TYPE",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='20'>Heating of ammonium dichromate produces :</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["6"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Chemistry",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "21",
 		"QuestionType": "MULTIPLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
@@ -1246,473 +1159,18 @@
 		"Tags": ["tag1", "tag2"]
 	},
 	{
-		"QuestionId": "22",
-		"QuestionType": "INTEGER TYPE",
+		"QuestionId": "19",
+		"QuestionType": "MULTIPLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p id='22'>If n(A) = 3, n(B) = 6 and A ⊆ B. Then the number of elements in A ∪ B is equal to -</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["9"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Maths",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "23",
-		"QuestionType": "INTEGER TYPE",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='22'>The area enclosed by 2|x| + 3|y| ≤ 6 is:</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["4"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Maths",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "24",
-		"QuestionType": "INTEGER TYPE",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='24'>In a class tournament, all participants were to play different games with one another. Two players fell ill after having played three games each (they never play with each other). If the total number of games played in the tournament is equal to 84, the total number of participants in the beginning was equal to -</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["5"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Maths",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "25",
-		"QuestionType": "FILL IN THE BLANKS",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='25'>The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to <span id='25' class='math-tex'>\\(2x\\ -\\ y\\ +\\ z\\ =\\ 0\\)</span> is:</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["yes"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Maths",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "26",
-		"QuestionType": "FILL IN THE BLANKS",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='26'>The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to <span id='26' class='math-tex'>\\(2x\\ -\\ y\\ +\\ z\\ =\\ 0\\)</span> is:</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["yes"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Maths",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "27",
-		"QuestionType": "FILL IN THE BLANKS",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='27'>The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to <span class='math-tex' id='27'>\\(2x^2\\ -\\ \\sqrt{y}\\ +\\ z\\ =\\ \\frac{2}{3}\\)</span> is:</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["yes"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Maths",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "28",
-		"QuestionType": "FILL IN THE BLANKS",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='28'>The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to <span id='28' class='math-tex'>\\(2x\\ -\\ y\\ +\\ z\\ =\\ 0\\)</span> is:</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"OptionsContent": [{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			},
-			{
-				"_id": "",
-				"Value": {
-					"Content": "",
-					"ContentLatex": "",
-					"ContentMl": ""
-				},
-				"Hint": ""
-			}
-		],
-		"SolutionContent": {
-			"Content": "<p>B</p>",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"QuestionHints": {
-			"Content": "",
-			"ContentLatex": "",
-			"ContentMl": ""
-		},
-		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["yes"]
-		},
-		"ChapterName": "any",
-		"ConceptName": "any",
-		"Section": "Maths",
-		"Tags": ["tag1", "tag2"]
-	},
-	{
-		"QuestionId": "29",
-		"QuestionType": "FILL IN THE BLANKS",
-		"MultiLanguage": "false",
-		"QuestionContent": {
-			"Content": "<p id='29'>The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to <span class='math-tex' id='29'>\\(\\left(\\sqrt{2\\sqrt[3]{x^2\\ +\\ y^3}}\\right)\\ -\\ \\sqrt{y\\ +\\ z^3}\\ +\\ z^2\\ =\\ \\frac{2}{3}\\)</span> is:</p>",
+			"Content": "<p id='20'>The equation of the plane which contains the line of intersection of the planes <span id='20' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span> and perpendicular to the xy plane is:</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
 		"OptionsContent": [{
 				"_id": "1",
 				"Value": {
-					"Content": "",
+					"Content": "<p id='1'><span id='1' class='math-tex'>\\(x\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y}\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -1721,7 +1179,7 @@
 			{
 				"_id": "2",
 				"Value": {
-					"Content": "",
+					"Content": "<p id='2'><span id='2' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -1730,7 +1188,7 @@
 			{
 				"_id": "3",
 				"Value": {
-					"Content": "",
+					"Content": "<p id='3'><span id='3' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -1739,7 +1197,7 @@
 			{
 				"_id": "4",
 				"Value": {
-					"Content": "",
+					"Content": "<p id='4'><span id='4' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -1757,8 +1215,8 @@
 			"ContentMl": ""
 		},
 		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["yes"]
+			"AnswerType": "id",
+			"Data": ["A"]
 		},
 		"ChapterName": "any",
 		"ConceptName": "any",
@@ -1766,45 +1224,45 @@
 		"Tags": ["tag1", "tag2"]
 	},
 	{
-		"QuestionId": "30",
-		"QuestionType": "FILL IN THE BLANKS",
+		"QuestionId": "20",
+		"QuestionType": "MULTIPLE TYPE",
 		"MultiLanguage": "false",
 		"QuestionContent": {
-			"Content": "<p id='30'>The equation of the plane passing through (1, 1, 1) and (1, -1, -1) and perpendicular to <span class='math-tex' id='30'>\\(\\left(\\sqrt{2\\sqrt[3]{x^2\\ +\\ y^3}}\\right)\\ -\\ \\sqrt{y\\ +\\ z^3}\\ +\\ \\left(\\frac{\\sqrt[3]{x^2\\ +\\ y^2}}{\\sqrt[]{x}+\\ y^2\\ +\\ z}\\right)\\ =\\ \\frac{2}{3}\\)</span> is:</p>",
+			"Content": "<p id='20'>The equation of the plane which contains the line of intersection of the planes <span id='20' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span> and perpendicular to the xy plane is:</p>",
 			"ContentLatex": "",
 			"ContentMl": ""
 		},
 		"OptionsContent": [{
-				"_id": "",
+				"_id": "1",
 				"Value": {
-					"Content": "",
+					"Content": "<p id='1'><span id='1' class='math-tex'>\\(x\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y}\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
 				"Hint": ""
 			},
 			{
-				"_id": "",
+				"_id": "2",
 				"Value": {
-					"Content": "",
+					"Content": "<p id='2'><span id='2' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
 				"Hint": ""
 			},
 			{
-				"_id": "",
+				"_id": "3",
 				"Value": {
-					"Content": "",
+					"Content": "<p id='3'><span id='3' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
 				"Hint": ""
 			},
 			{
-				"_id": "",
+				"_id": "4",
 				"Value": {
-					"Content": "",
+					"Content": "<p id='4'><span id='4' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>",
 					"ContentLatex": "",
 					"ContentMl": ""
 				},
@@ -1822,13 +1280,13 @@
 			"ContentMl": ""
 		},
 		"CorrectAnswer": {
-			"AnswerType": "value",
-			"Data": ["yes"]
+			"AnswerType": "id",
+			"Data": ["A"]
 		},
 		"ChapterName": "any",
 		"ConceptName": "any",
 		"Section": "Maths",
 		"Tags": ["tag1", "tag2"]
 	}
-
+	
 ]
