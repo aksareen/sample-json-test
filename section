@@ -1,8 +1,8 @@
 {
-		"_id": "1",
+		"_id": "2",
 		"type": "",
 		"question_content": {
-			"content": "<p id='20'>The equation of the plane which contains the line of intersection of the planes <span id='20' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span> and perpendicular to the xy plane is:</p>"
+			"content": "<p><span class="math-tex">\\(\\frac{2}{3}\\sqrt{2eas\\sqrt[3]{sdsdsd}}\\)</span></p>"
 		},
 		"options": [{
 				"option_no": "1",
