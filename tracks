@@ -8,25 +8,25 @@
 	"options": [{
 			"option_no": "1",
 			"option_content": {
-				"content": "<p id='1'><span id='1' class='math-tex'>\\(x\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y}\\)</span></p>"
+				"content": "<p id='1'><span id='1' class='math-tex'>\\(y^4\\ =\\ \\sqrt[3]{x^2\\ +\\ y}\\)</span></p>"
 			}
 		},
 		{
 			"option_no": "2",
 			"option_content": {
-				"content": "<p id='2'><span id='2' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>"
+				"content": "<p id='2'><span id='2' class='math-tex'>\\(y^4\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>"
 			}
 		},
 		{
 			"option_no": "3",
 			"option_content": {
-				"content": "<p id='3'><span id='3' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>"
+				"content": "<p id='3'><span id='3' class='math-tex'>\\(y^4\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>"
 			}
 		},
 		{
 			"option_no": "4",
 			"option_content": {
-				"content": "<p id='4'><span id='4' class='math-tex'>\\(x^3\\ +\\ y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>"
+				"content": "<p id='4'><span id='4' class='math-tex'>\\(y^3\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>"
 			}
 		}
 	],
