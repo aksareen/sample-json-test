@@ -1,4 +1,4 @@
-{
+[{
 	"_id": "3",
 	"type": "",
 	"question_content": {
@@ -35,4 +35,4 @@
 		"positive": 3,
 		"negative": 0
 	}
-}
+}]
