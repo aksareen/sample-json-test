@@ -1,11 +1,11 @@
 [
 	{
 
-		q_id: "afsfsdsdsds",
-		type: "sdsdsdsdsd"
+		"q_id": "afsfsdsdsds",
+		"type": "sdsdsdsdsd"
 	},
 	{
-		q_id: "abcd",
-		type: "dcba"
+		"q_id": "abcd",
+		"type": "dcba"
 	}
 ]
