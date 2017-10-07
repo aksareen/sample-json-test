@@ -1,5 +1,5 @@
 {
-	"_id": "3",
+	"id": "3",
 	"type": "",
 	"question_content": {
 		"content": "<p><span class='math-tex'>\\(\\sqrt[3]{2\\sqrt[2]{2}\\frac{2}{3}}\\)</span></p>"
