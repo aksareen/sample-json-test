@@ -1,38 +1,92 @@
-[{
-	"_id": "4",
-	"type": "",
-	"question_content": {
-		"content": "<p><span class='math-tex'>\\(\\sqrt[3]{2\\sqrt[2]{2}\\frac{2}{3}}\\)</span></p>"
-	},
-	"options": [{
-			"option_no": "1",
-			"option_content": {
-				"content": "<p id='1'><span id='1' class='math-tex'>\\(y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y}\\)</span></p>"
+{
+	"code": 200,
+	"message": "Success",
+	"data": {
+		"questions": [
+			{
+				"content": "Arpit",
+				"optionsContent": [
+					{
+						"value": "Arpit",
+						"id": "123"
+					},
+					{
+						"value": "rv",
+						"id": "123"
+					},
+					{
+						"value": "aps",
+						"id": "123"
+					},
+					{
+						"value": "bhavesh",
+						"id": "123"
+					}
+				]
+			},
+			{
+				"content": "aps",
+				"optionsContent": [
+					{
+						"value": "aps",
+						"id": "123"
+					},
+					{
+						"value": "rv",
+						"id": "123"
+					},
+					{
+						"value": "aps",
+						"id": "123"
+					},
+					{
+						"value": "bhavesh",
+						"id": "123"
+					}
+				]
+			},
+			{
+				"content": "rv",
+				"optionsContent": [
+					{
+						"value": "rv",
+						"id": "123"
+					},
+					{
+						"value": "rv",
+						"id": "123"
+					},
+					{
+						"value": "aps",
+						"id": "123"
+					},
+					{
+						"value": "bhavesh",
+						"id": "123"
+					}
+				]
+			},
+			{
+				"content": "bhavesh",
+				"optionsContent": [
+					{
+						"value": "bhavesh",
+						"id": "123"
+					},
+					{
+						"value": "rv",
+						"id": "123"
+					},
+					{
+						"value": "aps",
+						"id": "123"
+					},
+					{
+						"value": "bhavesh",
+						"id": "123"
+					}
+				]
 			}
-		},
-		{
-			"option_no": "2",
-			"option_content": {
-				"content": "<p id='2'><span id='2' class='math-tex'>\\(y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>"
-			}
-		},
-		{
-			"option_no": "3",
-			"option_content": {
-				"content": "<p id='3'><span id='3' class='math-tex'>\\(y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>"
-			}
-		},
-		{
-			"option_no": "4",
-			"option_content": {
-				"content": "<p id='4'><span id='4' class='math-tex'>\\(y^2\\ =\\ \\sqrt[3]{x^2\\ +\\ y^3}\\)</span></p>"
-			}
-		}
-	],
-	"correct_ans": ["1"],
-	"question_hint": "",
-	"marks": {
-		"positive": 3,
-		"negative": 0
+		]
 	}
-}]
+}
