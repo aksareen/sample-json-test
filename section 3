@@ -1,0 +1,227 @@
+[
+  {
+    "_id": "5bbddb779f0473e92390e26d",
+    "index": 0,
+    "guid": "9956ac46-2a38-4c92-80e5-5ee364ad74fb",
+    "isActive": true,
+    "balance": "$1,319.53",
+    "picture": "http://placehold.it/32x32",
+    "age": 30,
+    "eyeColor": "blue",
+    "name": "Lindsay Valdez",
+    "gender": "female",
+    "company": "XIXAN",
+    "email": "lindsayvaldez@xixan.com",
+    "phone": "+1 (922) 404-2069",
+    "address": "969 Scholes Street, Sedley, South Carolina, 482",
+    "about": "Deserunt et est nulla aliquip. Esse consequat exercitation reprehenderit tempor laboris dolor amet sunt tempor. Pariatur culpa tempor magna ut do magna. Fugiat voluptate officia tempor laborum dolore officia officia nisi proident reprehenderit commodo.\r\n",
+    "registered": "2014-08-15T01:57:24 -01:00",
+    "latitude": 56.118012,
+    "longitude": 133.00762,
+    "tags": [
+      "cupidatat",
+      "in",
+      "excepteur",
+      "aliquip",
+      "Lorem",
+      "aliqua",
+      "minim"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Gaines Robinson"
+      },
+      {
+        "id": 1,
+        "name": "Odom Mcconnell"
+      },
+      {
+        "id": 2,
+        "name": "Mckee Cantu"
+      }
+    ],
+    "greeting": "Hello, Lindsay Valdez! You have 3 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "5bbddb77e43aa1a625a36d16",
+    "index": 1,
+    "guid": "40b96689-b613-4397-9c66-8554524ff0d3",
+    "isActive": false,
+    "balance": "$3,269.35",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "green",
+    "name": "Alfreda Cortez",
+    "gender": "female",
+    "company": "OMNIGOG",
+    "email": "alfredacortez@omnigog.com",
+    "phone": "+1 (807) 451-3450",
+    "address": "253 Aurelia Court, Bartonsville, Massachusetts, 455",
+    "about": "Et eiusmod exercitation eiusmod tempor enim. Cupidatat duis veniam et non aliquip duis aliqua et velit id sit velit. Aute cillum non irure cillum aliquip mollit est ea proident ullamco qui ipsum tempor. Nostrud cillum pariatur laboris consequat dolore tempor voluptate esse ea amet.\r\n",
+    "registered": "2015-03-04T08:46:31 -00:00",
+    "latitude": 33.39997,
+    "longitude": -8.747325,
+    "tags": [
+      "et",
+      "est",
+      "commodo",
+      "sit",
+      "officia",
+      "ad",
+      "dolor"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Mendez Robbins"
+      },
+      {
+        "id": 1,
+        "name": "Chris Neal"
+      },
+      {
+        "id": 2,
+        "name": "Mcfadden Graves"
+      }
+    ],
+    "greeting": "Hello, Alfreda Cortez! You have 1 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5bbddb771d804f07d8df9e4d",
+    "index": 2,
+    "guid": "ef10da59-2058-4b75-a72d-b47f8c2116cc",
+    "isActive": true,
+    "balance": "$3,787.53",
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "eyeColor": "blue",
+    "name": "Kelley Terrell",
+    "gender": "male",
+    "company": "OCTOCORE",
+    "email": "kelleyterrell@octocore.com",
+    "phone": "+1 (910) 470-2402",
+    "address": "299 Lefferts Place, Westmoreland, Rhode Island, 8767",
+    "about": "Mollit nisi labore quis incididunt incididunt. Eiusmod aute veniam sint consectetur. Aute culpa adipisicing aliqua excepteur enim eiusmod.\r\n",
+    "registered": "2017-08-22T01:47:48 -01:00",
+    "latitude": -45.633586,
+    "longitude": -90.454701,
+    "tags": [
+      "anim",
+      "culpa",
+      "ea",
+      "ut",
+      "minim",
+      "sit",
+      "excepteur"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Audrey Meadows"
+      },
+      {
+        "id": 1,
+        "name": "Mills Jackson"
+      },
+      {
+        "id": 2,
+        "name": "Jackson Webb"
+      }
+    ],
+    "greeting": "Hello, Kelley Terrell! You have 7 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5bbddb775b024d44a6dd21fc",
+    "index": 3,
+    "guid": "06dc0b66-e07c-4198-8417-37276653d641",
+    "isActive": false,
+    "balance": "$2,895.92",
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "eyeColor": "blue",
+    "name": "Cassie Puckett",
+    "gender": "female",
+    "company": "ZOARERE",
+    "email": "cassiepuckett@zoarere.com",
+    "phone": "+1 (814) 527-2326",
+    "address": "838 Rose Street, Levant, Oklahoma, 5700",
+    "about": "In nostrud ea minim occaecat commodo. Reprehenderit qui enim laborum officia incididunt aliquip cupidatat fugiat laboris et labore sunt enim. Mollit mollit consequat nisi sit cillum. Ex pariatur voluptate mollit velit mollit.\r\n",
+    "registered": "2015-08-23T05:27:49 -01:00",
+    "latitude": -10.235401,
+    "longitude": -173.228285,
+    "tags": [
+      "consequat",
+      "reprehenderit",
+      "et",
+      "officia",
+      "proident",
+      "laborum",
+      "minim"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Adeline Bradford"
+      },
+      {
+        "id": 1,
+        "name": "Beck Bryant"
+      },
+      {
+        "id": 2,
+        "name": "Jane Black"
+      }
+    ],
+    "greeting": "Hello, Cassie Puckett! You have 5 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5bbddb772b6d2ebfea2d7952",
+    "index": 4,
+    "guid": "3e0b7e0d-e0bf-4a0b-aa74-2cdef0508641",
+    "isActive": false,
+    "balance": "$2,052.74",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "eyeColor": "brown",
+    "name": "Ilene Vinson",
+    "gender": "female",
+    "company": "ZENTIA",
+    "email": "ilenevinson@zentia.com",
+    "phone": "+1 (818) 452-2099",
+    "address": "842 Bowne Street, Coleville, Connecticut, 9310",
+    "about": "Anim esse minim fugiat ea laboris laboris officia officia ipsum minim. Dolor reprehenderit ipsum irure eu pariatur anim adipisicing. Cupidatat pariatur aliquip ea ipsum magna cillum sunt est Lorem minim magna. Anim mollit enim sint qui cupidatat proident cillum eiusmod. Fugiat culpa anim id dolore non nisi elit fugiat. In nisi dolore reprehenderit duis ullamco fugiat ex.\r\n",
+    "registered": "2014-02-21T01:51:02 -00:00",
+    "latitude": -76.302696,
+    "longitude": 111.348936,
+    "tags": [
+      "nisi",
+      "duis",
+      "officia",
+      "duis",
+      "dolor",
+      "irure",
+      "aute"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Byrd Lancaster"
+      },
+      {
+        "id": 1,
+        "name": "Casey Henderson"
+      },
+      {
+        "id": 2,
+        "name": "Pat Phelps"
+      }
+    ],
+    "greeting": "Hello, Ilene Vinson! You have 6 unread messages.",
+    "favoriteFruit": "strawberry"
+  }
+]
